@@ -194,12 +194,12 @@ a.article, a.article:hover {
 ----------------------------------------------------- */
 @media (max-width: 768px) {
     #sidebar {
-        margin-left: -250px;
-        transform: rotateY(90deg);
+      margin-left: -250px;
+      transform: rotateY(90deg);
     }
     #sidebar.active {
-        margin-left: 0;
-        transform: none;
+      margin-left: 0;
+      transform: none;
     }
     #sidebarCollapse span:first-of-type,
     #sidebarCollapse span:nth-of-type(2),
